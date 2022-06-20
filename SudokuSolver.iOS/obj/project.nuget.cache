@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXsYUXMckyw7xCDxrdw+pF0vjRbpBFf9eudeqoxyJ0L0dTg3XzMVIYHT/+vfjreFJzv8MOADdS38D6+lHiqHZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jakub\\Desktop\\Wszechswiat\\Xamarin\\Sudoku\\SudokuSolver.iOS\\SudokuSolver.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jakub\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\jakub\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
